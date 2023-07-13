@@ -1,0 +1,26 @@
+.form_signup {
+  max-width: 500px;
+  padding: 1rem;
+  margin-top: 15% !important;
+}
+
+.form_signup .form-floating:focus-within {
+  z-index: 2;
+}
+
+.form_signup input[type='text'] {
+  margin-bottom: -1px;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+}
+
+.form_signup input {
+  margin-bottom: -1px;
+  border-radius: 0 !important;
+}
+
+.pass1 {
+  border-radius: 3px !important;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+}

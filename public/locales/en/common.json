@@ -1,0 +1,94 @@
+{
+    "products": [
+        {
+            "name": "iPhone 13 Pro",
+            "price": 1099,
+            "specs": "6.1-inch Super Retina XDR display, A15 Bionic chip, 128GB storage",
+            "description": "The iPhone 13 Pro features a stunning display, powerful performance, and ample storage for all your needs.",
+            "reviews": 142,
+            "sold": 234,
+            "left": 766
+        },
+        {
+            "name": "MacBook Pro 16-inch",
+            "price": 2399,
+            "specs": "16-inch Retina display, Intel Core i7, 16GB RAM, 512GB SSD",
+            "description": "The MacBook Pro 16-inch offers exceptional performance and a beautiful display, making it the perfect choice for professionals.",
+            "reviews": 98,
+            "sold": 178,
+            "left": 322
+        },
+        {
+            "name": "iPad Air",
+            "price": 599,
+            "specs": "10.9-inch Liquid Retina display, A14 Bionic chip, 64GB storage",
+            "description": "The iPad Air combines power and versatility, allowing you to work and play on the go.",
+            "reviews": 241,
+            "sold": 412,
+            "left": 588
+        },
+        {
+            "name": "Apple Watch Series 7",
+            "price": 399,
+            "specs": "Always-on Retina display, ECG app, heart rate monitoring",
+            "description": "The Apple Watch Series 7 keeps you connected and tracks your health and fitness throughout the day.",
+            "reviews": 86,
+            "sold": 256,
+            "left": 744
+        },
+        {
+            "name": "AirPods Pro",
+            "price": 249,
+            "specs": "Active Noise Cancellation, Transparency mode, sweat and water-resistant",
+            "description": "The AirPods Pro deliver immersive sound and a comfortable fit for a superior listening experience.",
+            "reviews": 312,
+            "sold": 765,
+            "left": 235
+        },
+        {
+            "name": "iMac 27-inch",
+            "price": 1799,
+            "specs": "27-inch Retina 5K display, 8-core Intel Core i7, 512GB SSD, Radeon Pro 5300",
+            "description": "The iMac 27-inch offers a stunning visual experience and powerful performance for creative professionals.",
+            "reviews": 76,
+            "sold": 125,
+            "left": 375
+        },
+        {
+            "name": "Apple TV 4K",
+            "price": 179,
+            "specs": "4K High Dynamic Range (Dolby Vision), Siri Remote, A12 Bionic chip",
+            "description": "The Apple TV 4K brings your favorite shows and movies to life with stunning picture quality and immersive sound.",
+            "reviews": 189,
+            "sold": 321,
+            "left": 679
+        },
+        {
+            "name": "Mac mini",
+            "price": 699,
+            "specs": "Apple M1 chip with 8-core CPU, 8GB unified memory, 256GB SSD",
+            "description": "The Mac mini packs powerful performance into a compact design, making it a versatile desktop solution.",
+            "reviews": 51,
+            "sold": 289,
+            "left": 711
+        },
+        {
+            "name": "iPad Pro",
+            "price": 799,
+            "specs": "11-inch Liquid Retina display, M1 chip, 128GB storage",
+            "description": "The iPad Pro offers desktop-class performance and a stunning display, ideal for creative professionals.",
+            "reviews": 231,
+            "sold": 512,
+            "left": 488
+        },
+        {
+            "name": "Mac Pro",
+            "price": 5999,
+            "specs": "Intel Xeon W processor, 32GB RAM, 1TB SSD, AMD Radeon Pro 580X",
+            "description": "The Mac Pro is a powerhouse for professionals who require top-tier performance and expandability.",
+            "reviews": 32,
+            "sold": 54,
+            "left": 446
+        }
+    ]
+}

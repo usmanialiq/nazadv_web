@@ -83,6 +83,7 @@ html,
 body {
   max-width: 100vw;
   overflow-x: hidden;
+  height: 100%;
 }
 
 body {
@@ -96,12 +97,21 @@ body {
 }
 
 a {
-  color: inherit;
-  text-decoration: none;
+  color: rgb(var(--foreground-rgb)) !important;
+  text-decoration: none !important;
 }
 
 @media (prefers-color-scheme: dark) {
   html {
     color-scheme: dark;
   }
+}
+
+.hero {
+  border: 1px solid var(--foreground-rgb);
+  border-radius: 5px;
+}
+
+label {
+  color: #000 !important;
 }
